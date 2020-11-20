@@ -20,7 +20,7 @@ Beim verwendeten Board handelt es sich um ein [STM32F7 des Herstellers ST](https
 Vorher unbedingt den Strom abschalten, am besten den Stecker ziehen und sicherstellen, dass keine Restspannung vorhanden ist. Zum Öffnen der BrauEule müssen die Schrauben des Metallgehäuses mit einem Torx-Schraubendreher gelöst werden. Anschließend kann man das Gehäuse vorsichtig nach hinten wegklappen. Achtet hier darauf keine Kabel oder andere Bauteile zu beschädigen.
 
 ### Ausbau des Boards mit Touchscreen
-Das Board ist direkt hinter dem Touchscreen im vorderen Teil der BrauEule zu finden. Es ist mit vier Schrauben am Gehäuse befestigt, diese können von innen gelöst werden. Passt beim Abschrauben auf, dass ihr nicht die Abstandshalter verliert und sammelt diese zusammen mit den Schrauben in einer Schale oder ähnlichem.
+Die Platine ist direkt hinter dem Touchscreen im vorderen Teil der BrauEule zu finden. Es ist mit vier Schrauben am Gehäuse befestigt, diese können von innen gelöst werden. Passt beim Abschrauben auf, dass ihr nicht die Abstandshalter verliert und sammelt diese zusammen mit den Schrauben in einer Schale oder ähnlichem.
 
 ![1-board](img/1-board.png "Das Board")
 
@@ -33,8 +33,11 @@ Der Touchscreen ist von Haus aus verbaut und leider mit drei bis vier Klebestrei
 
 Anschließend könnt ihr die Lötellen lösen. Das klingt einfacher als es ist. Die Verbindungen sind sehr fein und mit einer normales Lötpumpe wohl nur schwer umzusetzen. Ich hatte das Glück, dass mir ein Freund ausgeholfen hat. Er verfügt über ein gut ausgerüstetes Lötlabor und konnte es mit Flussmittel, Heißluftdüse und einer Lötpumpe sauber trennen.
 
-![3-solders](img/3-solders "Feine Lötstellen")
+![3-solders](img/3-solders.png "Feine Lötstellen")
 
-Sofern ihr das Ersatzdisplay nicht einzeln bekommen habt, müsst ihr dieses ebenfalls von der Spenderplatine lösen.
+Sofern ihr das Ersatzdisplay nicht einzeln bekommen habt, müsst ihr dieses auf gleichem Wege von der *Spenderplatine* lösen.
 
 ### Auflöten des neuen Display
+Auch hier ist wieder hohe Präzision erfolderlich. Das funktionierende Display muss auf die Platine gelötet werden, die der BrauEule entnommen wurde. 
+
+![4-new-solder-joints](img/4-new-solder-joints.png "Wieder aufgelötet")
