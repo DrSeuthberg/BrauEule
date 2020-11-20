@@ -39,6 +39,9 @@ Anschließend könnt ihr die Lötellen lösen. Das klingt einfacher als es ist. 
 Sofern ihr das Ersatzdisplay nicht einzeln bekommen habt, müsst ihr dieses auf gleichem Wege von der *Spenderplatine* lösen.
 
 ### Auflöten des neuen Display
-Auch hier ist wieder hohe Präzision erfolderlich. Das funktionierende Display muss auf die Platine gelötet werden, die der BrauEule entnommen wurde. 
+Auch hier ist wieder hohe Präzision erfolderlich. Das neue Display muss auf die Platine gelötet werden, die der BrauEule entnommen wurde. Ihr werdet das vermutlich nicht mit einem Lötkolben aus dem Baumarkt hinbekommen. 
 
 ![4-new-solder-joints](img/4-new-solder-joints.png "Wieder aufgelötet")
+
+### Austausch der Schutzglases
+tbd
