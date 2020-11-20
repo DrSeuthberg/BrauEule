@@ -1,5 +1,5 @@
 # BrauEule
-Dies dient als Sammlung von Anleitungen in Wartund und Pflege rund um die [Brumas BrauEule III](https://www.brumas.com/brumas/)
+Dies dient als Sammlung von Anleitungen in Wartund und Pflege rund um die [Brumas BrauEule III](https://www.brumas.com/brumas/). Ihr handelt eigenverantwortlich, ich übernehme keine Verantwortung für Garantieverlust oder etwaige Schäden.
 
 ## Austasch Touchscreen
 ### Vorweg 
