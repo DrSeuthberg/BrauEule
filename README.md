@@ -10,6 +10,7 @@ Ihr benötigt folgendes Werkzeug
 - Torx-Schraubendreher
 - Lötstation + Equipment (hohe Präzision erforderlich)
 - Scharfes Messer mit flacher Klinge
+- Heißluftpistole
 
 ### Ersatzeile
 Nach meiner Recherche ist das Display (Rocktech Displays RK043FN48H-CT) nicht einzeln zu haben, daher habe ich ein baugleiches Ersatzboard für etwa 45€ im Neuzustand ersteigert. Ihr könnt nicht einfach das neue Board verbauen, da auf diesem natürlich nicht die notwendige Software vorhanden ist und auch das Shield von Brumas fehlt.
