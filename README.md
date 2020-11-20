@@ -9,7 +9,7 @@ Beim letzen Brauvorgang habe ich beim Starten der BrauEule gemerkt, dass der Tou
 Vorher unbedingt den Strom abschalten, am besten den Stecker ziehen und sicherstellen, dass keine Restspannung vorhanden ist. Zum Öffnen der BrauEule müssen die Schrauben des Metallgehäuses mit einem Torx-Schraubendreher gelöst werden. Anschließend kann man das Gehäuse vorsichtig nach hinten wegklappen. Achtet hier darauf keine Kabel oder andere Bauteile zu beschädigen.
 
 ### Ausbau des Boards mit Touchscreen
-Das Board ist direkt hinter dem Touchscreen im vorderen Teil der BrauEule zu finden. Es ist mit vier Schrauben am Gehäuse befestigt, diese können von innen gelöst werden. Passt beim Abschrauben auf, dass ihr nicht die Abstandshalter verliert und sammelt diese mit dem Schrauben in einer Schale oder ähnlichem.
+Das Board ist direkt hinter dem Touchscreen im vorderen Teil der BrauEule zu finden. Es ist mit vier Schrauben am Gehäuse befestigt, diese können von innen gelöst werden. Passt beim Abschrauben auf, dass ihr nicht die Abstandshalter verliert und sammelt diese zusammen mit den Schrauben in einer Schale oder ähnlichem.
 
 ![1-board](img/1-board.png "Das Board")
 
