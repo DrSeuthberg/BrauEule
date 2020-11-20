@@ -5,6 +5,12 @@ Dies dient als Sammlung von Anleitungen in Wartund und Pflege rund um die [Bruma
 ### Vorweg 
 Beim letzen Brauvorgang habe ich beim Starten der BrauEule gemerkt, dass der Touchscreen nicht mehr reagiert. Mir fiel schon vorher ein Riss durch den Screen auf, ich hoffte aber immer, es betrifft nur das Schutzglas. Nach Konktakt zum Hersteller beschloss ich erstmal die Reperatur selber zu versuchen und schraubte die BrauEule auf. Daraus ist diese kleine Anleitung entstanden.
 
+### Werkzeug
+Ihr benötigt folgendes Werkzeug
+- Torx-Schraubendreher
+- Lötkolben + Ausrüstung (hohe Präzision erforderlich)
+- Scharfes Messer mit flacher Klinge
+
 ### Ersatzeile
 Nach meiner Recherche ist das Display nicht einzeln zu haben, daher habe ich ein baugleiches Ersatzboard für etwa 45€ im Neuzustand ersteigert. Ihr könnt nicht einfach das neue Board verbauen, da auf diesem natürlich nicht die notwendige Software vorhanden ist und auch das Shield von Brumas fehlt.
 
