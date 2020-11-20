@@ -1,7 +1,7 @@
 # BrauEule
 Dies dient als Sammlung von Anleitungen in Wartund und Pflege rund um die [Brumas BrauEule III](https://www.brumas.com/brumas/). Ihr handelt eigenverantwortlich, ich übernehme keine Verantwortung für Garantieverlust oder etwaige Schäden.
 
-## Austasch Touchscreen
+## Austasch Touchscreen (unfertiger Entwurf)
 ### Vorweg 
 Beim letzen Brauvorgang habe ich beim Starten der BrauEule gemerkt, dass der Touchscreen nicht mehr reagiert. Mir fiel schon vorher ein Riss durch den Screen auf, ich hoffte aber immer, es betrifft nur das Schutzglas. Nach Konktakt zum Hersteller beschloss ich erstmal die Reperatur selber zu versuchen und schraubte die BrauEule auf. Daraus ist diese kleine Anleitung entstanden.
 
